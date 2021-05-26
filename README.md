@@ -1,2 +1,4 @@
 # tving-downloader
-A Google Colaboratory Notebook to download TVING streams directly to Google Drive
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WHTJEON/tving-downloader/blob/main/TVING_DOWNLOADER.ipynb) 
+
+
